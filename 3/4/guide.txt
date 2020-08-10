@@ -1,0 +1,17 @@
+if you want to have multipage you shouldn't add another html in public folder of your proj but 
+you must create another project with create-react-app in terminal 
+Go to project(react-complete-guide)/src/App.js and write the following inside the div
+
+**********************************
+ <div className="App">
+    <h1>Hi, I'm a react app </h1>
+</div>
+**********************************
+Now in the browser I see Hi, I'm a raect app
+we can remove that logo.svg file because we don't use it anymore
+in the src/App.css write the following 
+***********************************
+.App {
+  text-align: center;
+}
+***********************************

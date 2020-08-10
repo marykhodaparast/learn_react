@@ -1,0 +1,5 @@
+search in google create react app there is a github code for it --> facebook 
+in the terminal write sudo npm install create-react-app -g 
+then write in terminal create-react-app nameofyourproject --scripts-version 1.1.5
+then write in terminal cd react-complete-guide and then write npm start
+

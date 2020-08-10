@@ -1,0 +1,9 @@
+Using a build Workflow 
+Recommended for single page applications and multi page applications(SPAS, MPAS)
+1) optimize code
+2) use Next_Gen javascript features 
+3) be more productive
+4) Use dependency management tools npm or yarn
+5) use bundler Recommended webpack
+6) use compliler babel --> -> Ex: use babel to change ES6 to ES5 so that all browsers can use it...
+7) development server to test our app on our machine

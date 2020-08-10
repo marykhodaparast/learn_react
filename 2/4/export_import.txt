@@ -1,0 +1,9 @@
+when we have "export default Person" we should use it as "import Person from ..."
+but if we have "export const baseData = 10 " then we should use it as "import {baseData} from ...."
+
+default export => import person from './person'
+                  import prs from './person'
+
+named export => import {smth} from './utility'
+                import {smth as s} from './utility'
+                import * as bundled from './utility'              
