@@ -207,6 +207,12 @@ class App extends Component {
 }
 /****************************************/
 /* 18) Manipulating the state  */
+/* 21) stateful vs stateless components */
+/* a stateful component is a component that has state in it no difference it is a class or functional base 
+but stateless component is a component like Person.js that doesn't have any state */
+/* stateful component(dumb or presentational component) is also called smart component or container components because they contain states */
+////////////
+/* So use state in few components and have stateless component more to have a better code! */
 
 
 
