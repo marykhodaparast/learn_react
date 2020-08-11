@@ -214,6 +214,11 @@ but stateless component is a component like Person.js that doesn't have any stat
 ////////////
 /* So use state in few components and have stateless component more to have a better code! */
 
+/* 22) Adding styles 
+with the help of webpack we can import css in javascript file 
+there are 2 ways of styling one that is said in this part and one
+that say in the next video for styling button "switch Name"
+*/
 
 
 
